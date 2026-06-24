@@ -1,0 +1,29 @@
+<DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-widht, initial-scale=1.0">
+    <title>meublog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabecalho-titulo">
+        meu blog tech
+    </h1>
+    <p class="cabecalho-paragrafo">
+        vou compartilhar os conhecimentos deste blog
+    </p>
+    </header>
+
+
+    <main class="principal">
+    </h2 class="principal-post"
+        meu primeiro principal-post
+    </h2>
+    <p class= "principal-paragrafo-post">
+        boas vindas ao meu blog! aqui
+        vou compartilhar sobre o assunto
+    </p>
+    </main>
+</body>
+</html>
