@@ -1,12 +1,13 @@
 .cabecalho{
-    background-color: rgb(99, 100, 100);
-    color:rgb(87, 10, 31);
+    background-color: rgb(140, 143, 143);
+    color:rgb(107, 40, 62);
     text-align:center;
     margin: 0 auto;
     max-width: 800px;
+    padding: 16px;
 
 }
 .principal{
-    background-color: rgb(2, 2, 25);
-    color:burlywood;
+    background-color: rgb(162, 162, 192);
+    color:rgb(70, 57, 41);
 }
